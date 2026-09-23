@@ -1,1 +1,1 @@
-print(f"42")
+print(42)
